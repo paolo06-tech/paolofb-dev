@@ -70,7 +70,7 @@ A continuación, presento algunos de los proyectos más relevantes en los que he
 
 ## 📬 Contacto
 
-Si te interesa mi perfil o quieres colaborar en algún proyecto, ¡no dudes en escribirme!
+Para consultas sobre mi perfil o mis proyectos, puedes contactarme aquí
 
 <div align="center">
 
