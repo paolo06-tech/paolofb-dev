@@ -51,11 +51,11 @@ A continuación, presento algunos de los proyectos más relevantes en los que he
 
 | Proyecto | Descripción | Stack Tecnológico |
 | :--- | :--- | :--- |
-| **📦 Gestión de Pedidos**<br>*(Grupo Amayo J - Prototipo 2025)* | Sistema integral para la gestión y rastreo de repartidores **en tiempo real**. Permite asignar pedidos y visualizar la ubicación de la flota en vivo. | `React` `Node.js` `Express` `MySQL` `Socket.IO` `Tailwind` |
-| **❄️ Refrigeración Palomino S.A.C**<br>*(Freelance 2025)* | Sitio web informativo y **responsive** diseñado para una empresa local de refrigeración. Enfocado en la velocidad y la experiencia de usuario móvil. | `HTML5` `Tailwind CSS` `JavaScript` |
-| **🚌 Rastreo de Buses UNU**<br>*(Universidad Nacional de Ucayali - 2024)* | Prototipo para visualizar la ubicación de los buses universitarios en tiempo real, facilitando la logística estudiantil. | `HTML` `CSS` `JS` `Google Maps API` |
-| **✈️ Paytiti Travel**<br>*(Rediseño 2023)* | Modernización visual de la página web de la agencia de viajes, mejorando la interfaz y la accesibilidad. | `HTML` `CSS` `JavaScript` |
-| **💻 Soporte Web UNU**<br>*(Prácticas 2024)* | Apoyo técnico en el área de frontend, desarrollo de maquetas y mantenimiento de módulos web para la universidad. | `HTML` `CSS` `JavaScript` |
+| **📦 Gestión de Pedidos**<br>*(Grupo Amayo J – Prototipo 2025)* | Sistema integral para la gestión y rastreo de repartidores **en tiempo real**. Permite asignar pedidos y visualizar la ubicación de la flota en vivo. | `React` `Node.js` `Express` `MySQL` `Socket.IO` `Tailwind CSS` `JavaScript (ES6+)` |
+| **❄️ Refrigeración Palomino S.A.C**<br>*(Freelance 2025)* | Sitio web informativo y **responsive** diseñado para una empresa local de refrigeración. Enfocado en velocidad y buena experiencia móvil. | `HTML5` `CSS3` `Tailwind CSS` `JavaScript (ES6+)` |
+| **🚌 Rastreo de Buses UNU**<br>*(Universidad Nacional de Ucayali – 2024)* | Prototipo para visualizar la ubicación de los buses universitarios en tiempo real, facilitando la logística estudiantil. | `HTML5` `CSS3` `JavaScript (ES6+)` `Google Maps API` |
+| **💻 Soporte Web UNU**<br>*(Prácticas 2024)* | Apoyo técnico en el área de frontend, desarrollo de maquetas y mantenimiento de módulos web para la universidad. | `HTML5` `CSS3` `JavaScript (ES6+)` |
+| **✈️ Paytiti Travel**<br>*(Rediseño 2023)* | Modernización visual de la página web de la agencia de turismo, mejorando la interfaz y la accesibilidad. | `HTML5` `CSS3` `JavaScript (ES6+)` |
 
 ---
 
