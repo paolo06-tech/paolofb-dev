@@ -62,8 +62,7 @@ A continuación, presento los proyectos comerciales y arquitecturas de software 
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paolo06-tech&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolo06-tech&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paolo06-tech&theme=radical&hide_border=true" alt="Racha de GitHub" height="150" />
 </div>
 
 ---
