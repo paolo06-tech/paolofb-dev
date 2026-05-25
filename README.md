@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1 align="center">Hola, soy Paolo Favio Barrera García 👋</h1>
-  <h3 align="center">Técnico en Ingeniería de Software con IA | Desarrollador Web Full Stack</h3>
+  <h3 align="center">Técnico en Ingeniería de Software con IA | Desarrollador Web Full Stack & Móvil</h3>
 
   <p align="center">
     📍 Pucallpa, Perú &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🎓 SENATI – Graduated 2025 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🗣️ Inglés: Avanzado
@@ -11,7 +11,7 @@
 
   <h3>💻 Sobre mí</h3>
   <p align="center" width="80%">
-    Soy un técnico en software especializado en desarrollo web con una sólida base en <b>Ingeniería de Software con IA</b>. Me apasiona construir soluciones prácticas, desde prototipos funcionales hasta sistemas en producción. Mi enfoque está en crear interfaces claras (Frontend) y arquitecturas robustas (Backend), utilizando tecnologías modernas para resolver problemas reales.
+    Soy un profesional técnico en software especializado en desarrollo web y móvil, con una sólida base en <b>Ingeniería de Software con IA</b>. Me apasiona construir soluciones prácticas, eficientes y seguras, desde prototipos comerciales hasta sistemas en producción. Mi enfoque está en crear interfaces intuitivas y elegantes (Frontend) acopladas a arquitecturas robustas y escalables (Backend), aplicando buenas prácticas y tecnologías modernas para resolver problemas reales del mercado.
   </p>
 
 </div>
@@ -22,8 +22,10 @@
 
 Aquí están las herramientas y tecnologías que utilizo para dar vida a mis proyectos:
 
-### Frontend
+### Frontend & Desarrollo Móvil
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,30 +49,28 @@ Aquí están las herramientas y tecnologías que utilizo para dar vida a mis pro
 
 ## 🚀 Proyectos Destacados
 
-A continuación, presento algunos de los proyectos más relevantes en los que he trabajado, tanto académicos como freelance.
+A continuación, presento los proyectos comerciales y arquitecturas de software más relevantes en los que he trabajado:
 
 | Proyecto | Descripción | Stack Tecnológico |
 | :--- | :--- | :--- |
-| **📦 Gestión de Pedidos**<br>*(Grupo Amayo J – Prototipo 2025)* | Sistema integral para la gestión y rastreo de repartidores **en tiempo real**. Permite asignar pedidos y visualizar la ubicación de la flota en vivo. | `React` `Node.js` `Express` `MySQL` `Socket.IO` `Tailwind CSS` `JavaScript (ES6+)` |
-| **❄️ Refrigeración Palomino S.A.C**<br>*(Freelance 2025)* | Sitio web informativo y **responsive** diseñado para una empresa local de refrigeración. Enfocado en velocidad y buena experiencia móvil. | `HTML5` `CSS3` `Tailwind CSS` `JavaScript (ES6+)` |
-| **🚌 Rastreo de Buses UNU**<br>*(Universidad Nacional de Ucayali – 2024)* | Prototipo para visualizar la ubicación de los buses universitarios en tiempo real, facilitando la logística estudiantil. | `HTML5` `CSS3` `JavaScript (ES6+)` `Google Maps API` |
-| **💻 Soporte Web UNU**<br>*(Prácticas 2024)* | Apoyo técnico en el área de frontend, desarrollo de maquetas y mantenimiento de módulos web para la universidad. | `HTML5` `CSS3` `JavaScript (ES6+)` |
-| **✈️ Paytiti Travel**<br>*(Rediseño 2023)* | Modernización visual de la página web de la agencia de turismo, mejorando la interfaz y la accesibilidad. | `HTML5` `CSS3` `JavaScript (ES6+)` |
+| **📱 Aplicativo de Escaneo & Consulta en Tiempo Real** | App móvil corporativa multiplataforma orientada a la optimización de puntos de venta. Implementa lógica de **control anti-ráfaga** para la cámara, permitiendo lecturas continuas de códigos de barras sin congelar el dispositivo. | `Flutter` `Dart` `REST APIs` `JSON Parsing` `AWS` `Git` |
+| **🍕 Sistema Integral de Gestión para Restaurantes** | Plataforma Full-Stack con arquitectura cliente-servidor para el control operativo y de delivery. Cuenta con roles diferenciados (Cliente, Repartidor, Administrador), carrito en tiempo real, encriptación avanzada y **seguimiento en vivo integrado con Google Maps**. | `React.js` `Node.js` `Express` `MySQL` `Socket.IO` `Tailwind CSS` `JWT` `Bcrypt` |
+| **💻 Sistema de Presentación Web Corporativa** | Web corporativa multipágina responsiva y modular de alto rendimiento para soluciones técnicas. Diseñada bajo enfoque *mobile-first*, cuenta con animaciones sutiles para la UX, **lazy loading** para optimización de recursos y estructuración SEO. | `HTML5` `Tailwind CSS` `JavaScript Vanilla` `Google Maps API` `Lazy Loading` |
 
 ---
 
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paolo06-tech&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolo06-tech&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="150" />
 </div>
 
 ---
 
 ## 📬 Contacto
 
-Para consultas sobre mi perfil o mis proyectos, puedes contactarme aquí
+Para consultas sobre mi perfil profesional, colaboraciones o proyectos, puedes contactarme a través de:
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Para consultas sobre mi perfil o mis proyectos, puedes contactarme aquí
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://wa.me/51991409040" target="_blank">
+  <a href="https://wa.me/51974600381" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   
